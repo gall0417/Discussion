@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Hdhomerun Signal Meter</string>
+    <string name="device">Device:</string>
+    <string name="ch">Channel</string>
+    <string name="Sig">Sig Strength</string>
+    <string name="SNR">SNR Quality</string>
+    <string name="Sym">Sym Quality</string>
+    <string name="Data">Data Rate</string>
+    <string name="Net">Net Rate</string>
+    <string name="Tune">Tune</string>
+    <string name="None">None</string>
+    <string name="Placeholder1">0</string>
+    <string name="Placeholder2">0</string>
+</resources>
